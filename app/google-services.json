@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "885438801565",
+    "firebase_url": "https://housingapp-a1cd8.firebaseio.com",
+    "project_id": "housingapp-a1cd8",
+    "storage_bucket": "housingapp-a1cd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885438801565:android:b6ba9e0f08effd3a",
+        "android_client_info": {
+          "package_name": "sic.com.HouseDesignApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885438801565-2vjrv2fppve1mr5pcv7jrkgmb5bqk8no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvCAZjWmUjs2pAZcWIHYcjb_-ig7qc6sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885438801565-2vjrv2fppve1mr5pcv7jrkgmb5bqk8no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885438801565:android:f958c620382487d3",
+        "android_client_info": {
+          "package_name": "sic.com.nyumbaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885438801565-00i7em7lh0agnqs40dff69380sg9a9os.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sic.com.nyumbaapp",
+            "certificate_hash": "c08985e2f03c6518010adaf4c4e657fd6b5e4f9a"
+          }
+        },
+        {
+          "client_id": "885438801565-2vjrv2fppve1mr5pcv7jrkgmb5bqk8no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvCAZjWmUjs2pAZcWIHYcjb_-ig7qc6sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885438801565-2vjrv2fppve1mr5pcv7jrkgmb5bqk8no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
